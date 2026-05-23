@@ -1,0 +1,11 @@
+{
+  "name": "exotickic",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "readme": "node scripts/generate-readme.mjs",
+    "stats": "node scripts/generate-stats.mjs",
+    "build": "npm run readme && npm run stats"
+  }
+}
