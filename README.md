@@ -13,8 +13,8 @@ const exotickic = {
   based:    "east java, indonesia",
   since:    "2022",
   stack:    ["typescript","javascript","react","node"],
-  language: ["id","en","kr"],
-  group:    "personal workspace",
+  language: ["id","en"],
+  group:    "syncedC0de"
 };
 ```
 
