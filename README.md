@@ -42,18 +42,6 @@ tools
 - 더 깔끔한 UI와 개발 경험을 위한 풀스택 앱 패턴
 - 일상 개발을 더 빠르게 만드는 작은 도구
 
-## 워크플로우
-
-```mermaid
-flowchart LR
-  idea[아이디어] --> design[설계]
-  design --> code[개발]
-  code --> test[테스트]
-  test --> ship[배포]
-  ship --> learn[학습]
-  learn --> idea
-```
-
 ## 통계
 
 ![GitHub Stats](./assets/github-stats.svg)
