@@ -1,5 +1,3 @@
-### exotickic
-
 풀스택 개발자 · full-stack developer 동자바, 인도네시아
 
 ![followers](https://img.shields.io/github/followers/exotickic?style=flat-square&label=followers)
