@@ -24,17 +24,20 @@
   
     <text x="54" y="143" class="icon">+</text>
     <text x="78" y="143" class="muted">Contributions this year</text>
-    <text x="338" y="143" class="value">0</text>
+    <text x="338" y="143" class="value">574</text>
   
     <text x="54" y="168" class="icon">=</text>
     <text x="78" y="168" class="muted">Repository size</text>
-    <text x="338" y="168" class="value">0 KB</text>
+    <text x="338" y="168" class="value">196 KB</text>
   
     <text x="54" y="193" class="icon">#</text>
     <text x="78" y="193" class="muted">Public repositories</text>
     <text x="338" y="193" class="value">2</text>
   <text x="426" y="61" class="heading">Languages Used (By File Size)</text>
   <rect x="426" y="51" width="328" height="8" rx="3" fill="#eaeef2"/>
+  <rect x="426.00" y="51" width="328.00" height="8" fill="#2f7fd1"/>
   
-  
+        <circle cx="430" cy="82" r="4" fill="#2f7fd1"/>
+        <text x="445" y="86" class="small strong">JavaScript</text>
+        <text x="508" y="86" class="small muted">100.00%</text>
 </svg>
